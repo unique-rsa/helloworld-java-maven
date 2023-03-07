@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello super worldd - fix for login issue codes" );
+        System.out.println( "Hello super worldd - login issue fix" );
     }
 }
